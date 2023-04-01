@@ -1,0 +1,79 @@
+body {
+    background: #f1ede5;
+    font-family: "Montserrat", sans-serif;
+    color: #574d49;
+}
+
+.cv-photo {
+    width: 100px;
+}
+
+.wrapper {
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+    background: #f8f7f2;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    border-bottom: 4px solid #b78d70;
+}
+
+.wrapper1 {
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    justify-content: center;
+}
+.name {
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 95px;
+    margin-top: 50px;
+    margin-bottom: 35px;
+    padding-bottom: 15px;
+    border-bottom: 4px solid #b78d70;
+    color: #473c38;
+}
+.h2 {
+    font-size: 35px;
+    color: #473c38;
+}
+
+.headers {
+    font-size: 35px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #473c38;
+}
+.headers1 {
+    font-size: 50px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #473c38;
+}
+.contacts {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    padding-left: 0;
+}
+.contacts-links {
+    color: #473c38;
+    padding-left: 10px;
+}
+.primary-column {
+    margin: 20px 0 40px 120px;
+    width: 400px;
+}
+.calendar {
+    width: 50px;
+    vertical-align: bottom;
+}
+.secondary-column {
+    margin: 20px 0 40px 135px;
+    width: 700px;
+}
+h4 {
+    margin: 18px 0 18px 0;
+}
